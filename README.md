@@ -1410,7 +1410,6 @@ Happy New Moon with Report is an open-source implementation of WebAssembly writt
     <table>
     <tr>
         <td>Rust</td>
-        <td>PHP</td>
         <td>C</td>
         <td>C++</td>
         <td>Python</td>
